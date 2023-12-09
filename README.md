@@ -7,6 +7,8 @@ Please feel free to take these ideas, and build something.
 ## Finance
 
 - 🏦 **Exchange Rate Aggregator**: This would aggregate exchange rates from across the internet, and allow users to find the cheapest money-exchange options for buying Foreign Currency. (Yes these already exist but not good enough for ASEAN and South Asia)
+- 💳 **Live Budgeting App**: The spending tracker would be live. So for Singaporean Banks, as soon as a transaction is made, the entry gets into the budgeting app. So you have idea of your money flow across banks and credit card providers.
+- 💸 **Money Spending Behaviour App**: Looking at all your transactions real-time, it would try to deter you from spending money. Like "you could've bought a weeks breakfast instead of that toy you'll never use." Probably LLMs to figure out what items are important for what persona of people to make sure we tune our substitute items.
 
 ## Language and Input
 
