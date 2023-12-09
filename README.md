@@ -4,6 +4,8 @@ A collection of ideas I get from time to time, preserving before I forget them o
 Please feel free to take these ideas, and build something.
 > If you do, please consider 🌏 [opening an issue](https://github.com/aniruddha-adhikary/ideas/issues/new?labels=built+something) and letting me know! I will list your implementation here.
 
+**WATCH** this repository if you want updates!
+
 ## Finance
 
 - 🏦 **Exchange Rate Aggregator**: This would aggregate exchange rates from across the internet, and allow users to find the cheapest money-exchange options for buying Foreign Currency. (Yes these already exist but not good enough for ASEAN and South Asia)
