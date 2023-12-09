@@ -19,3 +19,9 @@ Please feel free to take these ideas, and build something.
 ## System Utilities
 
 - ⚙️ **MiFi Battery Indicator**: Display a Menu Bar Icon that displays the battery level on your Portable Router / MiFi device. Ideally could be done for TP-Link. They have a MiFi app so definitely has a nice API to consume. 
+
+## Oddly-specific Open Source Contributions
+
+### Automation
+
+- ✂️ **OpenAPI/Swagger for n8n**: Easily integrate APIs with Swagger specs available with n8n workflow. Either a OpenAPI node... or a CLI tool to convert OpenAPI specifications into n8n community nodes.
